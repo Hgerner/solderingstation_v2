@@ -1,0 +1,26 @@
+Component Name : MCP6V02
+
+Part Count : 3
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?A
+     Pins - (Normal) : 5
+          Vina-          2              Passive
+          Vina+          3              Passive
+          Vdd            8              Passive
+          Vss            4              Passive
+          Vouta          1              Passive
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 5
+          Vinb-          6              Passive
+          Vinb+          5              Passive
+          Vdd            8              Passive
+          Vss            4              Passive
+          Voutb          7              Passive
+          Hidden Pins : 
+
